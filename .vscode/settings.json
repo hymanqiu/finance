@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "c:\\Users\\hyman.qiu\\Documents\\Projects\\Finance\\venv\\Scripts\\python.exe",
+    "workbench.settings.editor": "json",
+    "workbench.settings.openDefaultSettings": true,
+    "window.zoomLevel": 3,
+    "python.formatting.provider": "black",
+    "python.formatOnSave": true
+}
