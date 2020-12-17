@@ -1,6 +1,4 @@
 import os
-import sys
-import math
 
 from os import rename
 
